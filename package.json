@@ -1,0 +1,19 @@
+{
+  "name": "@samrobbins/typography-dark",
+  "version": "1.0.0",
+  "description": "Dark mode for the Tailwind CSS Typography Plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Robbins",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samrobbins85/typography-dark.git"
+  },
+  "dependencies": {
+    "@tailwindcss/typography": "^0.3.1",
+    "tailwindcss": "^2.0.1"
+  }
+}
